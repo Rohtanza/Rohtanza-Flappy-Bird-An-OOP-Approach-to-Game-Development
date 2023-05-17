@@ -18,7 +18,7 @@ This project is a semester assignment for Object Oriented Programming, taught by
 - 🚀 CLion: Utilize CLion, an intelligent and user-friendly IDE, to streamline your development workflow, enhance code productivity, and unleash your game development potential.
 
 ## Getting Started:
-1. 🔗 Clone the repository to your local machine using the command: `git clone https://github.com/Rohtanza/-Flappy-Bird-An-OOP-Approach-to-Game-Development`.
+1. 🔗 Clone the repository to your local machine using the command: `git clone https://github.com/Rohtanza/Rohtanza-Flappy-Bird-An-OOP-Approach-to-Game-Development`.
 2. 🚀 Install SFML and configure your development environment by following the provided instructions.
 3. 💻 Build and run the project using your preferred C++ IDE or build system.
 
